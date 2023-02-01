@@ -1,0 +1,5 @@
+3. Cosa viene stampato a video dal seguente codice:
+
+Se stampiamo questo codice ci da un errore perché la variabile $value non é definita, quindi dobbiamo definire
+prima del foreach la variabile (ad esempio: $vallue = 0;), e cosí il risultato del codice stampato sarebbe:
+(Torino - 100)(Milano - 10)(Roma - 1000)
